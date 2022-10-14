@@ -2,6 +2,7 @@ import json
 import os
 
 
+# тестовое изменение для git
 class Car():
     def __init__(self, name="", type=0, creator=0, color=0, privod=0, box_type=0, v_engine=0):
         self.name = str(name)
