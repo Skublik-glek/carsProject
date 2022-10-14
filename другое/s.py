@@ -4,7 +4,7 @@ Fara = []
 Dveri = []
 Wheels = []
 Cost = []
-
+# изменяем
 while True:
 	print('1. Добавить машину')
 	print('2. Редактировать машину')

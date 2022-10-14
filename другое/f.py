@@ -4,6 +4,7 @@ Fara = []
 Dveri = []
 Wheels = []
 Cost = []
+#что-то пишем что-то пишем
 def AddCv(cost = 0, model = '', color = '', fara = 'OFF', dveri = ['None']*4, wheels = ['None']*4):
     Model.append(model)
     Color.append(color)
